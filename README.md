@@ -2,7 +2,7 @@
 
 A simple and interactive **Food Recipe Web Application** where users can explore recipes, search for their favorite dishes, and view detailed cooking instructions.  
 
-![Food Recipe Screenshot](./food.png)  
+![Food Recipe Screenshot](./Recipe App/food.png) 
 
 ---
 
